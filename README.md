@@ -1,11 +1,12 @@
 # KATEX for Whatsapp Web 👾
 
+![image](https://github.com/user-attachments/assets/26c98e3a-b93d-4f31-bd0b-4dda0e495520)
 
 ## How to use
 Include TeX functions supported by KateX inside \\[ ... \\] for display mode or \\( ... \\) for inline mode. 
 
 ## How to install
-Download and unzip this repository, go to extensions manager, turn on developer mode, load unpacked extension and select the repository's folder. 
+Download and rename the extension of this repository from .zip to .xpi , go to extensions manager, install add-on from file and select the file extension. 
 > [!NOTE]
 > Made by Claude AI mostly. 
 > Only tested on Zen Browser for Windows 11.
