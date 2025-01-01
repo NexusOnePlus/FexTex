@@ -21,6 +21,10 @@ Download and rename the extension of this repository from .zip to .xpi , go to e
 
 > [!CAUTION]
 > Personal use, not considering performance and stability for real use.
+>
+## Credits
+- This extension uses [Katex](https://katex.org/) in order to render LaTex.
+- KaTex is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## License
-FexTex is licensed under the [MIT License](https://opensource.org/licenses/MIT)
+FexTex is licensed under the [MIT License](https://opensource.org/licenses/MIT).
